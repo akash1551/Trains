@@ -1,0 +1,10 @@
+*.pyc
+Media/
+db.sqlite3
+/irctc/db.sqlite3
+*~
+migrations/
+/irctc/irctc/migrations/*
+
+
+
